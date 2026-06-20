@@ -1,3 +1,4 @@
+#Print all prime numbers from 1 to n.
 n = int(input())
 for num in range(1,n+1):
     is_prime = True
@@ -7,6 +8,7 @@ for num in range(1,n+1):
             break
     if is_prime:
         print(num) 
+        
 
 
 
