@@ -1,10 +1,10 @@
 #basic prime 
-#n = int(input())
+# n= int(input())
 #for i in range(2,n):
 #    if(n%i==0):
 #        print("not prime")
 #else:
-#    print("prime")        
+#    print("prime")       this is wrong. 
 
 # better version prime number program.
 n = int(input())
